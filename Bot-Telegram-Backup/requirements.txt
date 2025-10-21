@@ -1,0 +1,7 @@
+python-dotenv
+gspread
+pandas
+telebot
+requests
+unidecode
+spotipy
